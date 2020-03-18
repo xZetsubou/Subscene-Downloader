@@ -1,5 +1,5 @@
 # Subscene-Downloader
->- This is an incomplete program
+>- This is an incomplete program that why there might be some bugs there
 
 >- You can download it from here [Releases](https://github.com/xZetsubou/Subscene-Downloader/releases)
 
