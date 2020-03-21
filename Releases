@@ -2,3 +2,6 @@
 * Fixed unzip some subtitles [ unknown characters bug ]
 
 3/18/2020 | Subscene-Downloader 0.0.5
+* Added Auto grab links [ there is some bugs since it not complete yet >_<
+* Extract files after downlaod
+* Remove zip files after extract
