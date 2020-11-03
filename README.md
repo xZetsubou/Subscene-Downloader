@@ -6,6 +6,6 @@
 > - `How to use ? you can click on ( Quick -> How to Use  )
 
 ---
-##### `Preview!` 
+##### `Preview` 
 
 ![Image of Subscene-Downloader](https://i.imgur.com/Q6mQpoz.png)
