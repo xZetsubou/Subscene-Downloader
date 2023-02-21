@@ -1,4 +1,3 @@
-1015 issue: There is a problem atm that is subscene (cloudflare) sets bandwidth limit after download a few files.
 # Subscene-Downloader
 
 >- __2022 / Fixed Downloads issues__
