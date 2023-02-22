@@ -1,4 +1,11 @@
 22/2/2023 | Subscene-Downloader 0.1.0
+fixed autograb copied link.
+added SETTINGS tap in Options.
+added option to set delay in between download files. default (0.7s)
+added option to set delay for escape block. default (30s)
+added option to change download files path. default (next to app path in downloads folder)
+
+22/2/2023 | Subscene-Downloader 0.1.0
 Fixed download issue I guess ?
 slwoed down download process to stop sc blocks
 
