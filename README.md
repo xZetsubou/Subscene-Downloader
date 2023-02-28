@@ -8,6 +8,8 @@
 
 > - `How to use ? you can click on ( Options -> How to Use  )
 
+>- Use Linkclump Extension to copy multi subtitles easily. more info in How to use page.
+
 ---
 ##### `Preview` 
 
