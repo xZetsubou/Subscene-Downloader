@@ -1,4 +1,10 @@
-22/2/2023 | Subscene-Downloader 0.1.0
+26/2/2023 | Subscene-Downloader 0.1.2
+Fixed freeze when download button pressed.
+Fixed wrong file sizes.
+Fixed URL Colors wrongly.
+Fixed many bugs.
+
+22/2/2023 | Subscene-Downloader 0.1.1
 fixed autograb copied link.
 added SETTINGS tap in Options.
 added option to set delay in between download files. default (0.7s)
